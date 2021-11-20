@@ -7,3 +7,4 @@ REPORT ztest_actions.
 
 * Test 7
 * Test 8
+* Test 9
